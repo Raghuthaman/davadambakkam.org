@@ -1,0 +1,247 @@
+body{
+    text-align: center;
+     background-color: chartreuse;
+    
+}
+
+#welcome{
+    background-color: blue;
+}
+
+.my_nav_bar{
+     position: sticky;
+     top: 0;
+    z-index: 99999;
+}
+
+
+h1{
+    color: white;
+    font-size: 33px;
+}
+
+h2{
+    color: white;
+}
+
+#campus{
+    color: blue;
+}
+
+#academics{
+    background-color: aqua;
+    color: blue;
+    font-size: 25px;
+}
+
+#aca{
+    color: purple;
+}
+
+#Fac{
+    color: darkblue;
+}
+
+#facilities{
+    background-color: green;
+}
+
+#sc{
+    color: lavender;
+}
+
+#p1{
+    color: lavender;
+    font-size: 25px;
+}
+
+#classimg{
+    width: 800px;
+}
+
+#cl{
+    color: lavender;
+}
+
+#La{
+    color: lavender;
+}
+
+#PL{
+    color: lavender;
+}
+
+#p2{
+    font-size: 25px;
+    color: lavender;
+}
+
+#CHL{
+   color: lavender;
+}
+
+#p3{
+    color: lavender;
+    font-size: 25px;
+}
+
+#BL{
+    color: lavender;
+}
+
+#p4{
+    color: lavender;
+    font-size: 25px;
+}
+
+#CL{
+    color: lavender;
+}
+
+#p5{
+    color: lavender;
+    font-size: 25px;
+}
+
+#LI{
+    color: lavender;
+}
+
+#p6{
+    color: lavender;
+    font-size: 25px;
+}
+
+#KG{
+    color: lavender;
+}
+
+#p7{
+    color: lavender;
+    font-size: 25px;
+}
+
+#PA{
+    color: lavender;
+}
+
+#p8{
+    color: lavender;
+    font-size: 25px;
+}
+
+#paimg{
+    width: 500px;
+}
+
+#par{
+    color: lavender;
+}
+
+#p9{
+    color: lavender;
+    font-size: 25px;
+}
+
+#parimg{
+    width: 500px;
+}
+
+#aud{
+    color: lavender;
+}
+
+#p10{
+    color: lavender;
+    font-size: 25px;
+}
+
+#av{
+    color: lavender;
+}
+
+#p11{
+    color: lavender;
+    font-size: 25px;
+}
+
+#avrimg{
+    width: 500px;
+}
+
+#schoolactivities{
+    background-color: darkorange;
+}
+
+#SchoolActivityHeading{
+    color: blue;
+}
+
+#p12{
+    color: indigo;
+    font-size: 25px;
+}
+
+#sports{
+    color: blue;
+}
+
+#smig{
+    width: 600px;
+}
+
+#yoga{
+    color: blue;
+}
+
+#p13{
+    color: indigo;
+    font-size: 25px;
+}
+
+#yimg{
+    width: 600px;
+}
+
+#contact{
+    background-color: cyan;
+}
+
+#con{
+    color: coral;
+}
+
+footer{
+    background-color: black;
+}
+ 
+
+#myh4{
+    margin-top: 13px;
+    margin-left: 15px;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+#events{
+    background-color: antiquewhite;
+}
+
+#admissionnote{
+    background-color: skyblue;
+}
+
+.dropdown-item{
+    color: rgb(177, 155, 155);
+    text-decoration: none;
+    text-align:center;
+}
+
+.dropdown-item:hover{
+    background-color: rgb(129, 118, 118);
+    text-decoration: none;
+    color: black;
+}
